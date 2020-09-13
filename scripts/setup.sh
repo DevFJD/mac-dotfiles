@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 # Create folders
 mkdir -p ~/Developer/code/go
 mkdir -p ~/Developer/code/mystuff
@@ -14,8 +15,10 @@ while true; do
     kill -0 "$$" || exit
 done 2>/dev/null &
 
+
 # Install xcode CLI
 xcode-select —-install
+
 
 # Install Homebrew
 if test ! $(which brew); then
@@ -25,6 +28,7 @@ if test ! $(which brew); then
 else
     echo "Homebrew already installed!"
 fi
+
 
 # Install Packages
 PACKAGES=(
@@ -39,6 +43,7 @@ PACKAGES=(
 
 echo "Installing packages..."
 brew install ${PACKAGES[@]}
+
 
 # Install Casks
 echo "Installing cask..."
@@ -58,9 +63,12 @@ CASKS=(
 echo "Installing cask apps..."
 brew cask install ${CASKS[@]}
 
+
 # Remove outdated versions from the cellar.
 echo "Running brew cleanup..."
 brew cleanup
 
+
 # Install ohmyzsh
+echo "Install ohmyzsh..."
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
