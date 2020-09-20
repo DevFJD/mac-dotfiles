@@ -3,7 +3,7 @@
 
 # Create folders
 mkdir -p ~/Developer/code/go
-mkdir -p ~/Developer/code/mystuff
+mkdir -p ~/Developer/code/projects
 mkdir -p ~/Developer/code/lab
 
 
@@ -45,8 +45,7 @@ echo "Installing packages..."
 brew install ${PACKAGES[@]}
 
 
-# Install Casks
-echo "Installing cask..."
+# Install Casks Apps
 CASKS=(
     iterm2
     insomnia
@@ -70,5 +69,5 @@ brew cleanup
 
 
 # Install ohmyzsh
-echo "Install ohmyzsh..."
+echo "Installing ohmyzsh..."
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
