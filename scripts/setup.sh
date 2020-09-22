@@ -35,6 +35,7 @@ PACKAGES=(
     zsh
     starship
     tmux
+    neovim
     python
     go
     nvm
