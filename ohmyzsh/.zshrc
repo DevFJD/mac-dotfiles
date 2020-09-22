@@ -16,6 +16,6 @@ export GOPATH=$HOME/Developer/code/go
 export PATH=$PATH:$GOPATH/bin
 
 # Flutter
-export PATH="$PATH:$HOME/Developer/mobile/flutter/bin"
+# export PATH="$PATH:$HOME/Developer/mobile/flutter/bin"
 
 eval "$(starship init zsh)"
