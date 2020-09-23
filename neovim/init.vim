@@ -12,7 +12,7 @@ call plug#begin("~/.vim/plugged")
   Plug 'leafgarland/typescript-vim'
   Plug 'peitalin/vim-jsx-typescript'
   Plug 'fatih/vim-go'
-
+  Plug 'sheerun/vim-polyglot'
 call plug#end()
 
 
