@@ -3,7 +3,7 @@
 
 # Create folders
 mkdir -p ~/Developer/code/go
-mkdir -p ~/Developer/code/projects
+mkdir -p ~/Developer/code/mystuff
 mkdir -p ~/Developer/code/lab
 
 
@@ -35,11 +35,11 @@ PACKAGES=(
     zsh
     starship
     tmux
-    neovim
     python
     go
     nvm
     htop
+    httpie
 )
 
 echo "Installing packages..."
@@ -56,7 +56,7 @@ CASKS=(
     gitkraken
     docker
     firefox
-    microsoft-edge
+    brave-browser
     spotify
     whatsapp
 )
