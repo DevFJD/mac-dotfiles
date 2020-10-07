@@ -39,7 +39,6 @@ PACKAGES=(
     go
     nvm
     htop
-    httpie
 )
 
 echo "Installing packages..."
@@ -56,7 +55,7 @@ CASKS=(
     gitkraken
     docker
     firefox
-    brave-browser
+    chromium
     spotify
     whatsapp
 )
