@@ -55,7 +55,7 @@ CASKS=(
     gitkraken
     docker
     firefox
-    chromium
+    brave-browser
     spotify
     whatsapp
 )
