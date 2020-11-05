@@ -56,6 +56,7 @@ CASKS=(
     docker
     firefox
     brave-browser
+    microsoft-edge
     spotify
     whatsapp
 )
