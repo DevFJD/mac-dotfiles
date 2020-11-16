@@ -57,6 +57,8 @@ CASKS=(
     firefox
     brave-browser
     microsoft-edge
+    gimp
+    inkscape
     spotify
     whatsapp
 )
