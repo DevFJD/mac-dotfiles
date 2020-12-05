@@ -3,7 +3,7 @@
 
 # Create folders
 mkdir -p ~/Developer/code/go
-mkdir -p ~/Developer/code/mystuff
+mdkdir -p ~/Developer/code/mystuff
 mkdir -p ~/Developer/code/lab
 
 
@@ -52,10 +52,8 @@ CASKS=(
     robo-3t
     sequel-pro
     visual-studio-code
-    gitkraken
     docker
     firefox
-    brave-browser
     microsoft-edge
     gimp
     inkscape
