@@ -49,6 +49,7 @@ brew install ${PACKAGES[@]}
 CASKS=(
     iterm2
     insomnia
+    gitkraken
     robo-3t
     sequel-pro
     visual-studio-code
