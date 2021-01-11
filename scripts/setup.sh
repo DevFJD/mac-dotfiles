@@ -55,7 +55,7 @@ CASKS=(
     visual-studio-code
     docker
     firefox
-    microsoft-edge
+    brave-browser
     gimp
     inkscape
     spotify
