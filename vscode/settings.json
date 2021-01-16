@@ -14,7 +14,7 @@
   // EDITOR
   "editor.suggestSelection": "first",
   "editor.renderIndentGuides": false,
-  "editor.fontFamily": "JetBrains Mono NL",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.cursorStyle": "underline",
   "editor.fontSize": 14,
@@ -37,7 +37,7 @@
   "files.autoSave": "onFocusChange",
   "files.trimTrailingWhitespace": true,
   // TERMINAL
-  "terminal.integrated.fontFamily": "JetBrains Mono NL",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.cursorStyle": "underline",
   // VS-INTELLICODE
