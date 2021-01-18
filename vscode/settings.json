@@ -2,7 +2,7 @@
   // WORKBENCH
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Dracula Soft",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
   "workbench.sideBar.location": "left",
   "workbench.editor.showTabs": false,
   "workbench.tree.renderIndentGuides": "none",
@@ -11,6 +11,7 @@
   "explorer.sortOrder": "type",
   "explorer.openEditors.visible": 0,
   "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
   // EDITOR
   "editor.suggestSelection": "first",
   "editor.renderIndentGuides": false,
