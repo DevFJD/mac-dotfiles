@@ -38,6 +38,7 @@ PACKAGES=(
     python
     go
     nvm
+    wget
     htop
 )
 
