@@ -2,8 +2,8 @@
 
 
 # Create folders
-mkdir -p ~/Developer/code/go
-mdkdir -p ~/Developer/code/mystuff
+mkdir -p ~/Developer/go
+mkdir -p ~/Developer/code/mystuff
 mkdir -p ~/Developer/code/lab
 
 

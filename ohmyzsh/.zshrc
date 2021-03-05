@@ -12,7 +12,7 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
 # GO
-export GOPATH=$HOME/Developer/code/go
+export GOPATH=$HOME/Developer/go
 export PATH=$PATH:$GOPATH/bin
 
 # Flutter
