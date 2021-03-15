@@ -54,6 +54,7 @@ CASKS=(
     robo-3t
     sequel-pro
     visual-studio-code
+    goland
     docker
     brave-browser
     gimp
