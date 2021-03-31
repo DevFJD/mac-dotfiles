@@ -50,15 +50,13 @@ brew install ${PACKAGES[@]}
 CASKS=(
     iterm2
     insomnia
-    sourcetree
     robo-3t
     sequel-pro
     visual-studio-code
-    goland
+    gitkraken
     docker
-    brave-browser
-    gimp
-    inkscape
+    microsoft-edge
+    microsoft-teams
     spotify
     whatsapp
 )

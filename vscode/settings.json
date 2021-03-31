@@ -2,7 +2,7 @@
   // WORKBENCH
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Ayu Mirage Bordered",
+  "workbench.colorTheme": "Dracula",
   "workbench.sideBar.location": "left",
   "workbench.editor.showTabs": false,
   "workbench.tree.renderIndentGuides": "none",
