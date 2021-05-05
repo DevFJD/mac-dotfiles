@@ -53,10 +53,8 @@ CASKS=(
     robo-3t
     sequel-pro
     visual-studio-code
-    gitkraken
     docker
     microsoft-edge
-    microsoft-teams
     spotify
     whatsapp
 )
