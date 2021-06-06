@@ -53,8 +53,8 @@ CASKS=(
     robo-3t
     sequel-pro
     visual-studio-code
+    brave-browser
     docker
-    microsoft-edge
     spotify
     whatsapp
 )
